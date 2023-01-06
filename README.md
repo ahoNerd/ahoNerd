@@ -8,6 +8,6 @@
     <a href="https://cvkmm.com">kmm</a> .
     <a href="https://padi.co.id">padi</a> .
     <a href="https://bimapratita.com">bimapratita</a> .
-    <a href="http://kuriya-japan.co.jp">Kuriya Japan</a>
+    <a href="https://kuriya-japan.com">Kuriya Japan</a>
   </samp>
 </p>
